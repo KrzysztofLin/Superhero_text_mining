@@ -1,4 +1,4 @@
-# Superhero_text_mining
+Data Analysis and Visualisation also was conducted..# Superhero_text_mining
 Explorative data anlysis, extraction key information from text, classification with use of Naive Bayens, SVM, KNN, DummyClassifier, NearestCentroid with hypertuned parameters.  
 
 
@@ -22,5 +22,8 @@ In the notebook you can find proccesses of:
 - data vectorization,
 - data transformation to tfidf matrixes,
 - hypertuning classification with gridsearch,
-- classification of dataset with hypertuned parameters,
+- classification of dataset with hypertuned parameters.
+- additional gridsearch and classification with hypertuned parameters on set with additional features. 
+
+
 To save aplication from data leakage sklearn pipelines has been aplied.
