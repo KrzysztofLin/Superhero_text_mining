@@ -1,5 +1,5 @@
-Data Analysis and Visualisation also was conducted..# Superhero_text_mining
-Explorative data anlysis, extraction key information from text, classification with use of Naive Bayens, SVM, KNN, DummyClassifier, NearestCentroid with hypertuned parameters.  
+# Superhero text mining
+Explorative data analysis, extraction key information from text, classification with use of Naive Bayens, SVM, KNN, DummyClassifier, NearestCentroid with hypertuned parameters.  
 
 
 # Set up
